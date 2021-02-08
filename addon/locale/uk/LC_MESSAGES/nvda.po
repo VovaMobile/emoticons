@@ -5,13 +5,13 @@
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: emoticons 6.0\n"
-"Report-Msgid-Bugs-To: 'nvda-translations@freelists.org'\n"
-"POT-Creation-Date: 2017-12-07 11:20+0100\n"
-"PO-Revision-Date: 2019-08-16 10:45+0200\n"
-"Last-Translator: José Manuel Delicado <jmdaweb@hotmail.com>\n"
-"Language-Team: NVDA add-ons translation team <LL@li.org>\n"
-"Language: es\n"
+"Project-Id-Version: emoticons 4.2\n"
+"Report-Msgid-Bugs-To: nvda-translations@freelists.org\n"
+"POT-Creation-Date: 2015-10-23 05:00+1000\n"
+"PO-Revision-Date: 2019-10-31 10:48+0200\n"
+"Last-Translator: Volodymyr Pyrih <vp88.mobile@gmail.com>\n"
+"Language-Team: \n"
+"Language: uk\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -22,21 +22,21 @@ msgid ""
 "You seem to have previous settings saved for this add-on. Do you want to "
 "import them, removing deprecated files?"
 msgstr ""
-"Parece que tienes la configuración previa guardada para este complemento. "
-"¿Quieres importarla eliminando los archivos obsoletos?"
+"Здається, для цього додатка збережено попередні налаштування. Ви хочете "
+"імпортувати їх під час видалення застарілих файлів?"
 
 #. Translators: the title of a message box dialog.
 msgid "Import Emoticons add-on settings"
-msgstr "Importar configuración del complemento Emoticons"
+msgstr "Імпортувати налаштування додатка Emoticons"
 
 #. Translators: A prefix to each emoticon name, added to the temporary speech dictionary, visible in temporary speech dictionary dialog when the addon is active, to explain an entry.
 #. Translators: Label for emojis in the list.
 msgid "Emoji"
-msgstr "Emoji"
+msgstr "Емодзі"
 
 #. Translators: A prefix to each emoticon name, added to the temporary speech dictionary, visible in temporary speech dictionary dialog when the addon is active, to explain an entry.
 msgid "Emoticon"
-msgstr "Emoticono"
+msgstr "Смайлик"
 
 #. Translators: the name of a submenu.
 #, fuzzy
@@ -45,156 +45,155 @@ msgstr "Emoticons"
 
 #. Translators: the name for a menu item.
 msgid "&Insert emoticon..."
-msgstr "&Insertar emoticono..."
+msgstr "&Вставити смайлик чи емодзі…"
 
 #. Translators: the tooltip text for a menu item.
 msgid "Shows a dialog to insert a smiley"
-msgstr "Muestra un diálogo para insertar un emoticono"
+msgstr "Показує діалог вставки смайлів"
 
 #. Translators: the name for a menu item.
 #, fuzzy
 msgid "In&sert symbol..."
-msgstr "&Insertar emoticono..."
+msgstr "&Вставити смайлик чи емодзі…"
 
 #. Translators: the tooltip text for a menu item.
 #, fuzzy
 msgid "Shows a dialog to insert a symbol"
-msgstr "Muestra un diálogo para insertar un emoticono"
+msgstr "Показує діалог вставки смайлів"
 
 #. Translators: the name for a menu item.
 msgid "&Emoticons dictionary..."
-msgstr "Diccionario de &Emoticonos..."
+msgstr "&Словник смайликів та емодзі…"
 
 #. Translators: the tooltip text for a menu item.
 msgid "Shows a dictionary dialog to customize emoticons"
-msgstr "Muestra un diálogo de diccionario para personalizar emoticonos"
+msgstr "Показує діалог, в якому можна встановити свої налаштування смайликів"
 
 #. Translators: Title of a dialog.
 #, python-format
 msgid "Emoticons dictionary (%s)"
-msgstr "Diccionario de Emoticonos (%s)"
+msgstr "Словник смайликів  (%s)"
 
 #. Translators: Message presented in input help mode.
 msgid "Toggles on and off the announcement of emoticons."
-msgstr "Activa y desactiva el anuncio de emoticonos."
+msgstr "Вмикає й вимикає вимову смайликів та емодзі."
 
 #. Translators: message presented when the dictionary for emoticons is unloaded.
 msgid "Emoticons off."
-msgstr "Emoticonos desactivados."
+msgstr "Вимову смайликів та емодзі вимкнено."
 
 #. Translators: message presented when the dictionary for emoticons is loaded.
 msgid "Emoticons on."
-msgstr "Emoticonos activados."
+msgstr "Вимову смайликів та емодзі увімкнено."
 
 #. Translators: Message presented in input help mode.
 msgid "Shows a dialog to select a smiley you want to paste."
-msgstr "Muestra un diálogo para seleccionar un emoticono que quieras pegar."
+msgstr "Показує діалог вибору смайликів, які ви бажаєте вставити."
 
 #. Translators: Message presented in input help mode.
 #, fuzzy
 msgid "Shows a dialog to select a symbol you want to paste."
-msgstr "Muestra un diálogo para seleccionar un emoticono que quieras pegar."
+msgstr "Показує діалог вибору смайликів, які ви бажаєте вставити."
 
 #. Translators: Message presented in input help mode.
 msgid "Shows the Emoticons dictionary dialog."
-msgstr "Muestra un diálogo del diccionario de Emoticonos."
+msgstr "Показує словник смайликів та емодзі."
 
 #. Translators: Message presented in input help mode.
 msgid "Shows the Emoticons settings."
-msgstr "Muestra la configuración de emoticonos."
+msgstr "Показує налаштування додатка Emoticons."
 
 #. Translators: Message presented in input help mode.
 msgid "Shows the symbol positioned where the review cursor is located."
-msgstr ""
-"Muestra el símbolo en la posición donde se encuentra el cursor de revisión."
+msgstr "Показує символ у позиції переглядового курсора."
 
 #. Translators: Reported when there is no replacement for the symbol at the position of the review cursor.
 #. Translators: Reported when there is no replacement for the symbol at the position of the caret.
 msgid "No symbol replacement"
-msgstr "No hay símbolo de reemplazo"
+msgstr "Немає символа для заміни"
 
 #. Translators: Character and its replacement used from the "Review current Symbol" command. Example: "Character: ? Replacement: question"
 msgid ""
 "Character: {}\n"
 "Replacement: {}"
 msgstr ""
-"Carácter: {}\n"
-"Reemplazo: {}"
+"Символ: {}\n"
+"Заміна: {}"
 
 #. Translators: title for expanded symbol dialog. Example: "Expanded symbol (English)"
 msgid "Symbol at the review cursor position ({})"
-msgstr "Símbolo en la posición del cursor de revisión ({})"
+msgstr "Символ у позиції переглядового курсора ({})"
 
 #. Translators: Message presented in input help mode.
 msgid "Shows the symbol positioned where the caret is located."
-msgstr "Muestra el símbolo posicionado donde se encuentra el cursor."
+msgstr "Показує символ у місці розташування системної каретки."
 
 #. Translators: title for expanded symbol dialog. Example: "Expanded symbol (English)"
 msgid "Symbol at the caret position ({})"
-msgstr "Símbolo en la posición del cursor ({})"
+msgstr "Символ у позиції системної каретки ({})"
 
 #. Translators: Title of the dialog.
 msgid "Insert emoticon"
-msgstr "Insertar emoticono"
+msgstr "Вставити смайлик чи емодзі"
 
 #. Filter panel.
 #. Translators: A text field to filter emoticons.
 #. Translators: The label of a text field to search for symbols in the Insert Symbol dialog.
 msgid "&Filter:"
-msgstr "&Filtrar:"
+msgstr "&Фільтрувати:"
 
 #. Translators: A radio button to choose all types of emoticons.
 msgid "&All"
-msgstr "&Todos"
+msgstr "&Усі"
 
 #. Translators: A radio button to choose only standard emoticons.
 msgid "&Standard"
-msgstr "&Estándar"
+msgstr "&Стандартні"
 
 #. Translators: A radio button to choose only emojis.
 msgid "Emoj&is"
-msgstr "Emoj&is"
+msgstr "Емо&дзі"
 
 #. List of emoticons.
 #. Translators: Label for the smileys list.
 msgid "&List of smilies"
-msgstr "&Lista de emoticonos"
+msgstr "&Список смайликів"
 
 #. Translators: Column which specifies the name  of emoticon.
 msgid "Name"
-msgstr "Nombre"
+msgstr "Ім’я"
 
 #. Translators: Column which specifies the type of emoticon (standard or emoji).
 msgid "Type"
-msgstr "Tipo"
+msgstr "Тип"
 
 #. Translators: The column which contains the characters of the emoticon.
 msgid "Characters"
-msgstr "Caracteres"
+msgstr "Символи"
 
 #. Translators: Label for standard emoticons in the list.
 msgid "Standard"
-msgstr "Estándar"
+msgstr "Стандартний"
 
 #. Translators: Error message when none emoticon is selected or the list is empty, and title of the error dialog.
 msgid "There is not any emoticon selected."
-msgstr "No hay ningún emoticono seleccionado."
+msgstr "Не вибрано жодного смайлика чи емодзі."
 
 #. Translators: This is the message when smiley has been copied to the clipboard.
 msgid "Smiley copied to clipboard, ready for you to paste."
-msgstr "Emoticono copiado al portapapeles, listo para pegar."
+msgstr "Смайлик скопійовано в буфер обміну й готовий до вставки"
 
 #. Translators: Message when the emoticon couldn't be copied.
 msgid "Cannot copy smiley."
-msgstr "No se puede copiar el emoticono."
+msgstr "Неможливо скопіювати смайл."
 
 #. Translators: The label for a button in the Emoticons dictionary dialog.
 msgid "Rese&t"
-msgstr "Re&iniciar"
+msgstr "Скинут&и"
 
 #. Translators: The label for a button in the Emoticons dictionary dialog.
 msgid "Save and e&xport dictionary"
-msgstr "Guardar y e&xportar diccionario"
+msgstr "Зберегти й &експортувати словник"
 
 #. Translators: This is the label for the Insert Symbol dialog.
 #. %s is replaced by the language for which symbol pronunciation is being edited.
@@ -205,716 +204,716 @@ msgstr ""
 #. Translators: This is the message when symbol has been copied to the clipboard.
 #, fuzzy
 msgid "Symbol copied to clipboard, ready for you to paste."
-msgstr "Emoticono copiado al portapapeles, listo para pegar."
+msgstr "Смайлик скопійовано в буфер обміну й готовий до вставки"
 
 #. Translators: Message when the symbol couldn't be copied.
 #, fuzzy
 msgid "Cannot copy symbol."
-msgstr "No se puede copiar el emoticono."
+msgstr "Неможливо скопіювати смайл."
 
 #. Translators: The label for a setting in Emoticons panel.
 msgid "&Activate speaking of emoticons:"
-msgstr "&Activar la verbalización de emoticonos:"
+msgstr "&Активувати вимову смайликів та емодзі:"
 
 #. Translators: The label for a setting in Emoticons panel.
 msgid "Speak add-on emojis"
-msgstr "Verbalizar emojis del complemento"
+msgstr "Промовляти емодзі додатка"
 
 #. Translators: The label for a setting in Emoticons panel.
 msgid "&Remove not used dictionaries"
-msgstr "&Eliminar diccionarios no utilizados"
+msgstr "&Вилучити словники, які не використовуються"
 
 #. Translators: (emoji) Grinning face, an happy face with normal eyes.
 msgid "Grinning face"
-msgstr "Cara sonriente"
+msgstr "Широко всміхнене обличчя"
 
 #. Translators: (emoji) Happy face with open mouth and squinting eyes.
 msgid "Happy face with open mouth and squinting eyes"
-msgstr "Cara feliz con la boca abierta y los ojos entrecerrados"
+msgstr "Широко всміхнене обличчя з примруженими очима"
 
 #. Translators: (emoji) happy face with open mouth.
 msgid "Happy face with open mouth"
-msgstr "Cara feliz con la boca abierta"
+msgstr "Широко всміхнене обличчя з очищами"
 
 #. Translators: (emoji) A smiling face with smiling eyes and rosy cheeks.
 msgid "Smiling Face With Smiling Eyes"
-msgstr "Cara Sonriente Con Los Ojos Risueños"
+msgstr "Усміхнене обличчя й очі"
 
 #. Translators: (emoji) smirking face.
 msgid "Smirking face"
-msgstr "Cara sonriendo de satisfacción"
+msgstr "Самовдоволене обличчя"
 
 #. Translators: (emoji) Slightly Smiling Face: a face that is a little bit happy, with a slight smile and neutral eyes.
 msgid "Slightly smiling face"
-msgstr "Cara ligeramente sonriente"
+msgstr "Трохи всміхнене обличчя"
 
 #. Translators: (emoji) white smiling face.
 msgid "white smiling face"
-msgstr "cara sonriente blanca"
+msgstr "Усміхнене обличчя"
 
 #. Translators: (emoji) happy face with halo.
 msgid "Happy face with halo"
-msgstr "Cara feliz con aureola"
+msgstr "Усміхнене обличчя з німбом"
 
 #. Translators: (emoji) white frowning face.
 msgid "White frowning face"
-msgstr "Cara fruncida blanca"
+msgstr "Похмуре обличчя"
 
 #. Translators: (emoji) winking face.
 msgid "Winking face"
-msgstr "Cara guiñando los ojos"
+msgstr "Обличчя що підморгує"
 
 #. Translators: (emoji) smiling face with heart shaped eyes.
 msgid "Smiling face with heart shaped eyes"
-msgstr "Cara sonriente con ojos en forma de corazón"
+msgstr "Усміхнене обличчя з очами серцями"
 
 #. Translators: (emoji)  Rose: a single red rose.
 msgid "Rose"
-msgstr "Rosa"
+msgstr "Троянда"
 
 #. Translators: (emoji) Expressionless face: a face with straight lined eyes and mouth. A deliberate display of no comment...
 msgid "Expressionless face"
-msgstr "Cara inexpresiva"
+msgstr "Обличчя без емоцій"
 
 #. Translators: (emoji) neutral face.
 msgid "Neutral face"
-msgstr "Cara neutral"
+msgstr "Нейтральне обличчя"
 
 #. Translators: (emoji) face without mouth.
 msgid "Face without mouth"
-msgstr "Cara sin boca"
+msgstr "Обличчя без рота"
 
 #. Translators: (emoji) face throwing a kiss.
 msgid "Face throwing a kiss"
-msgstr "Cara lanzando un beso"
+msgstr "Обличчя що надсилає цілунок"
 
 #. Translators: (emoji) kissing face with closed eyes.
 msgid "Kissing face with closed eyes"
-msgstr "Cara besando con los ojos cerrados"
+msgstr "Обличчя із закритими очима що цілує"
 
 #. Translators: (emoji) Kissing face.
 msgid "Kissing face"
-msgstr "Cara besando"
+msgstr "Обличчя що цілує"
 
 #. Translators: (emoji) kissing face with arched eyes.
 msgid "Kissing face with arched eyes"
-msgstr "Cara besando con los ojos arqueados"
+msgstr "Обличчя з примруженими очима що цілує"
 
 #. Translators: (emoji) winking face with stuck out tongue.
 msgid "Winking face with stuck out tongue"
-msgstr "Cara guiñando los ojos con la lengua fuera"
+msgstr "Обличчя що підморгує і показує язика"
 
 #. Translators: (emoji) face with stuck out tongue and eyes tightly closed.
 msgid "Face with stuck out tongue and eyes tightly closed"
-msgstr "Cara con la lengua fuera y los ojos firmemente cerrados"
+msgstr "Обличчя з висунутим язиком і заплющеними очима"
 
 #. Translators: (emoji) A cheeky face with stuck out tongue.
 msgid "Face with stuck out tongue"
-msgstr "Cara con la lengua fuera"
+msgstr "Обличчя з висунутим язиком"
 
 #. Translators: (emoji) Hugging Face: a face displayed with an open hands gesture, offering a hug.
 msgid "Hugging face"
-msgstr "Cara dando un abrazo"
+msgstr "Щасливе обличчя з руками що обіймають"
 
 #. Translators: (emoji) flushed face.
 msgid "Flushed face"
-msgstr "Cara sonrojada"
+msgstr "Зашаріле обличчя"
 
 #. Translators: (emoji) Grinning face showing smiling eyes.
 msgid "Grinning Face With Smiling Eyes"
-msgstr "Cara Sonriente Con Los Ojos Risueños"
+msgstr "Осяйно всміхнене обличчя й очі"
 
 #. Translators: (emoji) A pensive, remorseful and saddened face. Quietly considering where things all went wrong.
 msgid "Pensive Face"
-msgstr "Cara Pensativa"
+msgstr "Замислене обличчя"
 
 #. Translators: (emoji) devil with evil smile.
 msgid "Devil with evil smile"
-msgstr "Diablo con sonrisa maligna"
+msgstr "Усміхнене обличчя з рогами"
 
 #. Translators: (emoji) devil.
 msgid "Devil"
-msgstr "Diablo"
+msgstr "Сердите обличчя з рогами"
 
 #. Translators: (emoji) relieved face.
 msgid "Relieved face"
-msgstr "Cara de alivio"
+msgstr "Заспокоєне обличчя"
 
 #. Translators: (emoji) unamused face.
 msgid "Unamused face"
-msgstr "Cara no divertida"
+msgstr "Невдоволене обличчя"
 
 #. Translators: (emoji) A face with scrunched up and closed eyes, frowning. Used to show helplessness in a situation.
 msgid "Persevering Face"
-msgstr "Cara Perseverante"
+msgstr "Невідступне обличчя"
 
 #. Translators: (emoji) crying face.
 msgid "Crying face"
-msgstr "Cara llorando"
+msgstr "Обличчя що плаче"
 
 #. Translators: (emoji) face with tears of joy.
 msgid "Face with tears of joy"
-msgstr "Cara con lágrimas de alegría"
+msgstr "Обличчя в сльозах радості"
 
 #. Translators: (emoji) loudly crying face.
 msgid "Loudly crying face"
-msgstr "Cara llorando a mares"
+msgstr "Обличчя що гучно ридає"
 
 #. Translators: (emoji) sleepy face.
 msgid "Sleepy face"
-msgstr "Cara somnolienta"
+msgstr "Заспане обличчя"
 
 #. Translators: (emoji) Shrugging: A person shrugging their shoulders to indicate a lack of knowledge about a particular topic, or a lack of care about the result of a situation.
 msgid "Shrugging emoji"
-msgstr "Emoji encogiéndose de hombros"
+msgstr "Людина що знизує плечима"
 
 #. Translators: (emoji) disappointed face.
 msgid "Disappointed face"
-msgstr "Cara decepcionada"
+msgstr "Розчароване обличчя"
 
 #. Translators: (emoji) disappointed but relieved face.
 msgid "Disappointed but relieved face"
-msgstr "Cara decepcionada pero aliviada"
+msgstr "Сумне але втішене обличчя"
 
 #. Translators: (emoji) Face with a look of concern, with a blue forehead and sweat dripping down the cheek.
 msgid "Face With Open Mouth & Cold Sweat"
-msgstr "Cara Con La Boca Abierta & Sudor Frío"
+msgstr "Занепокоєне обличчя з потом"
 
 #. Translators: (emoji) Happy face with a single drop of sweat on one side of the face.
 msgid "Smiling Face With Open Mouth & Cold Sweat"
-msgstr "Cara Sonriente Con La Boca Abierta & Sudor Frío"
+msgstr "Широко всміхнене обличчя з потом"
 
 #. Translators: (emoji) face with cold sweat.
 msgid "Face with cold sweat"
-msgstr "Cara con sudor frío"
+msgstr "Понурене обличчя в поту"
 
 #. Translators: (emoji) A distraught-looking face with  an open mouth and crescent shaped eyes.
 msgid "Weary Face"
-msgstr "Cara Hastiada"
+msgstr "Замучене обличчя"
 
 #. Translators: (emoji) An exhausted-looking face with an open mouth and tightly closed eyes.
 msgid "Tired Face"
-msgstr "Cara Cansada"
+msgstr "Втомлене обличчя"
 
 #. Translators: (emoji) fearful face.
 msgid "Fearful face"
-msgstr "Cara temerosa"
+msgstr "Налякане обличчя"
 
 #. Translators: (emoji) face screaming in fear.
 msgid "Face screaming in fear"
-msgstr "Cara gritando de miedo"
+msgstr "Обличчя що кричить із переляку"
 
 #. Translators: (emoji) angry face.
 #. Translators: :@ angry face.
 msgid "Angry face"
-msgstr "Cara enfadada"
+msgstr "Сердите обличчя"
 
 #. Translators: (emoji) pouting face.
 msgid "Pouting face"
-msgstr "Cara de abucheo"
+msgstr "Обличчя що дується"
 
 #. Translators: (emoji) A face with air coming out of its nose, huffing with anger face.
 msgid "Face With Steam From Nose"
-msgstr "Cara Exhalando Por La Nariz"
+msgstr "Обличчя що сердито видихає"
 
 #. Translators: (emoji) confounded face.
 msgid "Confounded face"
-msgstr "Cara Confundida"
+msgstr "Збентежене обличчя"
 
 #. Translators: (emoji) Smiling Face With Open Mouth and Tightly-Closed Eyes.
 msgid "Smiling Face With Open Mouth and Tightly-Closed Eyes"
-msgstr "Cara sonriente con la boca abierta y los ojos cerrados firmemente"
+msgstr "Широко всміхнене замружене обличчя"
 
 #. Translators: (emoji) happy face licking lips.
 msgid "Happy face licking lips"
-msgstr "Cara feliz relamiéndose"
+msgstr "Усміхнене обличчя що облизує губи"
 
 #. Translators: (emoji) happy face with sunglasses.
 msgid "Happy face with sunglasses"
-msgstr "Cara feliz con gafas de sol"
+msgstr "Усміхнене обличчя в темних окулярах"
 
 #. Translators: (emoji) sleeping face.
 msgid "Sleeping face"
-msgstr "Cara durmiente"
+msgstr "Обличчя що спить"
 
 #. Translators: (emoji) A dizzy face, looking sick or confused from being spun around in circles too many times.
 msgid "Dizzy Face"
-msgstr "Cara Aturdida"
+msgstr "Запаморочене обличчя"
 
 #. Translators: (emoji) astonished face.
 msgid "Astonished face"
-msgstr "Cara asombrada"
+msgstr "Вражене обличчя"
 
 #. Translators: (emoji) worried face.
 msgid "Worried face"
-msgstr "Cara preocupada"
+msgstr "Стурбоване обличчя"
 
 #. Translators: (emoji) Dismayed face with open eyes and open mouth, appear closer to  a frowning face.
 msgid "Frowning Face With Open Mouth"
-msgstr "Cara Fruncida Con La Boca Abierta"
+msgstr "Похмуре обличчя з відкритим ротом"
 
 #. Translators: (emoji) anguished face.
 msgid "Anguished face"
-msgstr "Cara angustiada"
+msgstr "Стражденне обличчя"
 
 #. Translators: (emoji) A face with Open Mouth, generally used to represent an element of surprise.
 msgid "Face with Open Mouth"
-msgstr "Cara con la Boca Abierta"
+msgstr "Обличчя з відкритим ротом"
 
 #. Translators: (emoji) grimacing face.
 msgid "Grimacing face"
-msgstr "Cara haciendo una mueca"
+msgstr "Обличчя з гримасою"
 
 #. Translators: (emoji) confused face.
 msgid "Confused face"
-msgstr "Cara Confundida"
+msgstr "Спантеличене обличчя"
 
 #. Translators: (emoji) A face with high eyebrows and an open mouth, it looks more surprised than hushed.
 msgid "Hushed Face"
-msgstr "Cara Enojada"
+msgstr "Здивоване і збентежене обличчя"
 
 #. Translators: (emoji) broken heart.
 msgid "Broken heart"
-msgstr "Corazón roto"
+msgstr "Розбите серце"
 
 #. Translators: (emoji) pulsating heart.
 msgid "Pulsating heart"
-msgstr "Corazón pulsante"
+msgstr "Серце що зростає"
 
 #. Translators: (emoji) beating heart.
 msgid "Beating heart"
-msgstr "Corazón palpitante"
+msgstr "Серце що б’ється"
 
 #. Translators: (emoji) two hearts.
 msgid "Two hearts"
-msgstr "Dos corazones"
+msgstr "Два серця"
 
 #. Translators: (emoji) heart with arrow.
 msgid "Heart with arrow"
-msgstr "Corazón con flecha"
+msgstr "Серце пробите стрілою"
 
 #. Translators: (emoji) purple heart.
 msgid "Purple heart"
-msgstr "Corazón Purpura"
+msgstr "Пурпурове серце"
 
 #. Translators: (emoji) red heart.
 msgid "Red heart"
-msgstr "Corazón rojo"
+msgstr "Червоне серце"
 
 #. Translators: (emoji) yellow heart.
 msgid "Yellow heart"
-msgstr "Corazón amarillo"
+msgstr "Жовте серце"
 
 #. Translators: (emoji) green heart.
 msgid "Green heart"
-msgstr "Corazón verde"
+msgstr "Зелене серце"
 
 #. Translators: (emoji) blue heart.
 msgid "Blue heart"
-msgstr "Corazón azul"
+msgstr "Синє серце"
 
 #. Translators: (emoji) This emoji is the version of the phrase ROFL. A person lying on the floor due to an extreme amount of laughter.
 msgid "Rolling on the Floor Laughing"
-msgstr "Muerto De Risa"
+msgstr "Качається від сміху"
 
 #. Translators: (emoji) A face that is a little bit sad, with a slight frown and neutral eyes.
 msgid "Slightly Frowning Face"
-msgstr "Cara Ligeramente Fruncida"
+msgstr "Трохи похмуре обличчя"
 
 #. Translators: (emoji) A face that is upside-down.
 msgid "Upside-down Face"
-msgstr "Cara al Revés"
+msgstr "Обличчя догори дригом"
 
 #. Translators: (emoji) A face displaying eyes glancing upward.
 msgid "Face With Rolling Eyes"
-msgstr "Cara Girando Los Ojos"
+msgstr "Обличчя із закоченими очима"
 
 #. Translators: (emoji) A person with arms forming an X to indicate no or no good.
 msgid "Person Gesturing No"
-msgstr "Persona haciendo un Gesto Desaprobatorio"
+msgstr "Людина що жестом показує «ні»"
 
 #. Translators: (emoji) A person with arms above his head, making an OK sign with the whole body.
 msgid "Person Gesturing OK"
-msgstr "Persona haciendo un Gesto de Aprobación"
+msgstr "Людина що жестом показує OK"
 
 #. Translators: (emoji) A person bowing deeply, express a sincere apology or to request a favour.
 msgid "Person bowing"
-msgstr "Persona haciendo una reverencia"
+msgstr "Людина що вклоняється"
 
 #. Translators: (emoji) An upset person frowning with dismay.
 msgid "Person Frowning"
-msgstr "Persona Frunciendo El Ceño"
+msgstr "Похмура людина"
 
 #. Translators: (emoji) Two hands placed firmly together.
 msgid "Folded Hands"
-msgstr "Manos Plegadas"
+msgstr "Руки стиснуті разом"
 
 #. Translators: (emoji) A person with a surgical mask on their face.
 msgid "Face with medical mask"
-msgstr "Cara con máscara médica"
+msgstr "Обличчя в медичній масці"
 
 #. Translators: (emoji) A black version of white smiling face.
 msgid "Black Smiling Face"
-msgstr "Cara Sonriente Negra"
+msgstr "Чорне усміхнене обличчя"
 
 #. Translators: (emoji) happy cat face with heart shaped eyes.
 msgid "Happy cat face with heart shaped eyes"
-msgstr "Cara de gato feliz con ojos en forma de corazón"
+msgstr "Усміхнений кіт з очима як серця"
 
 #. Translators: (emoji) ok hand sign.
 msgid "Ok hand sign"
-msgstr "Señal de aprobación con la mano"
+msgstr "Жест OK"
 
 #. Translators: (emoji) thumbs up symbol.
 msgid "Thumbs up symbol"
-msgstr "Señal de pulgares hacia arriba"
+msgstr "Великі пальці вгору"
 
 #. Translators: (emoji) thumbs down symbol.
 msgid "Thumbs down symbol"
-msgstr "Señal de pulgares hacia abajo"
+msgstr "Великі пальці вниз"
 
 #. Translators: (emoji) Victory Hand.
 msgid "Victory Hand"
-msgstr "La Mano de la Victoria"
+msgstr "Жест перемоги"
 
 #. Translators: :) Smile
 msgid "smiling smiley"
-msgstr "cara sonriente"
+msgstr "Смайлик"
 
 #. Translators: :( Sad face.
 msgid "Sad face"
-msgstr "Cara triste"
+msgstr "Сумне обличчя"
 
 #. Translators: :D Laugh
 msgid "Laughing smiley"
-msgstr "Cara riéndose"
+msgstr "Обличчя що сміється"
 
 #. Translators: :O Surprised
 msgid "surprised smiley"
-msgstr "cara de sorpresa"
+msgstr "Здивування"
 
 #. Translators: ;) Wink;
 msgid "winking smiley"
-msgstr "cara guiñando los ojos"
+msgstr "Підморгування"
 
 #. Translators: ;( Crying
 msgid "crying smiley"
-msgstr "cara llorando"
+msgstr "Плач"
 
 #. Translators: :s :-S :-Q Confused face:
 msgid "Confused Face"
-msgstr "Cara Confundida"
+msgstr "Спантеличене обличчя"
 
 #. Translators: (:| Sweating
 msgid "sweating smiley"
-msgstr "cara sudando"
+msgstr "Спотілий смайлик"
 
 #. Translators: :|] Robot (a robot head)
 msgid "Robot Smiley"
-msgstr "Cara de robot"
+msgstr "Робот смайлик"
 
 #. Translators: :| Speechless
 msgid "speechless smiley"
-msgstr "cara estupefacta"
+msgstr "Закритий рот смайлик"
 
 #. Translators: :* Kiss
 msgid "kiss smiley"
-msgstr "cara besando"
+msgstr "Поцілунок смайлик"
 
 #. Translators: :P Cheeky
 msgid "cheeky smiley"
-msgstr "cara Descarada"
+msgstr "Зухвалий смайлик"
 
 #. Translators: :$ Blushing
 msgid "blushing smiley"
-msgstr "cara sonrojada"
+msgstr "Зашарілий смайлик"
 
 #. Translators: :^) Wondering
 msgid "wondering smiley"
-msgstr "cara dudando"
+msgstr "Зачарований смайлик"
 
 #. Translators: |-) Sleepy
 msgid "sleepy smiley"
-msgstr "cara soñolienta"
+msgstr "Сплячий смайлик"
 
 #. Translators: |-( Dull
 msgid "dull smiley"
-msgstr "cara aburrida"
+msgstr "Пригнічений смайлик"
 
 #. Translators: :x My lips are sealed
 msgid "my lips are sealed smiley"
-msgstr "cara con los labios sellados"
+msgstr "Обіцяю мовчати смайлик"
 
 #. Translators: \o/ Dancing
 msgid "dancing smiley"
-msgstr "cara bailando"
+msgstr "Танцювальний смайлик"
 
 #. Translators: :'( crying a lot smiley
 msgid "crying a lot smiley"
-msgstr "cara llorando desconsoladamente"
+msgstr "Багатослізний смайлик"
 
 #. Translators: >:( Angry
 #. Translators: (angry) Angry
 msgid "angry smiley"
-msgstr "cara Enfadada"
+msgstr "Сердитий смайлик"
 
 #. Translators: :/ Worried
 #. Translators: (worry) Worried
 msgid "worried smiley"
-msgstr "cara preocupada"
+msgstr "Стурбований смайлик"
 
 #. Translators: <3 Heart
 #. Translators: (heart) Heart
 msgid "heart smiley"
-msgstr "emoticono corazón"
+msgstr "Серце смайлик"
 
 #. Translators:  O:)  O:-) Angel
 msgid "Angel Smiley"
-msgstr "Emoticono Ángel"
+msgstr "Ангел смайлик"
 
 #. Translators:  O.o  o.O  Confused
 msgid "Confused Smiley"
-msgstr "Cara Confundida"
+msgstr "Збентежений смайлик"
 
 #. Translators:   3:-) Devil
 msgid "Devil Smiley"
-msgstr "Emoticono Diablo"
+msgstr "Чорт смайлик"
 
 #. Translators:  ^_^ Keke (This smiley is inspired by the Asian style, which is a happy face.)
 msgid "Keke Smiley"
-msgstr "Emoticono Pastel"
+msgstr "Keke смайлик"
 
 #. Translators: -_- Bored (This smiley face has its eyes closed and is sporting a very small grin.)
 msgid "Bored smiley"
-msgstr "Cara sonriente con los ojos cerrados"
+msgstr "Нудьгуючий смайлик"
 
 #. Translators:  >:O  Upset, angry or shouting...
 msgid "Angry Smiley"
-msgstr "Cara gritando"
+msgstr "Роздратований смайлик"
 
 #. Translators:  :3  Cat (Cat faced smiley with curly lips)
 msgid "Cat Smiley"
-msgstr "Cara de gato sonriendo"
+msgstr "Кіт смайлик"
 
 #. Translators: (-.-)ZZZ Iӭ Sleepy
 msgid "I am Sleepy smiley"
-msgstr "Cara Estoy dormido"
+msgstr "Я сплю смайлик"
 
 #. Translators: 8-) Glasses
 msgid "glasses smiley"
-msgstr "emoticono Gafas"
+msgstr "Окуляри смайлик"
 
 #. Translators: (^^^) shark
 msgid "shark smiley"
-msgstr "emoticono Tiburón"
+msgstr "Акула смайлик"
 
 #. Translators:  (cash) Cash
 msgid "cash smiley"
-msgstr "emoticono Dinero"
+msgstr "Гроші смайлик"
 
 #. Translators: (flex) Muscle
 msgid "muscle smiley"
-msgstr "cara flexionando los músculos"
+msgstr "Силач смайлик"
 
 #. Translators: (beer) Beer
 msgid "beer smiley"
-msgstr "emoticono cerveza"
+msgstr "Пиво смайлик"
 
 #. Translators: (d) Drink
 msgid "drink smiley"
-msgstr "cara bebiendo"
+msgstr "П’ю смайлик"
 
 #. Translators: (ninja) Ninja
 msgid "ninja smiley"
-msgstr "emoticono Ninja"
+msgstr "Нінзя смайлик"
 
 #. Translators: (cool) Cool
 msgid "cool smiley"
-msgstr "emoticono Cool"
+msgstr "Крутий смайлик"
 
 #. Translators: (inlove) In Love
 msgid "in love smiley"
-msgstr "cara enamorada"
+msgstr "Закоханий смайлик"
 
 #. Translators: (yn) Fingers crossed
 msgid "fingers crossed smiley"
-msgstr "emoticono dedos cruzados"
+msgstr "Схрещені пальці смайлик"
 
 #. Translators: (yawn) Yawn
 msgid "yawning smiley"
-msgstr "cara bostezando"
+msgstr "Позіхає смайлик"
 
 #. Translators: (puke) Puking
 msgid "puking smiley"
-msgstr "cara de asco"
+msgstr "Блювотний смайлик"
 
 #. Translators: (doh) Doh!
 msgid "doh! smiley"
-msgstr "emoticono ¡uy!"
+msgstr "Великий сум смайлик"
 
 #. Translators: (wasntme) It wasn't me!
 msgid "it wasn't me! smiley"
-msgstr "Cara ¡Yo no fui!"
+msgstr "Це був не я! смайлик"
 
 #. Translators: (party) Party
 msgid "party smiley"
-msgstr "emoticono fiesta"
+msgstr "Вечірка смайлик"
 
 #. Translators: (mm) Mmmm...
 msgid "mmmmmm... smiley"
-msgstr "emoticono mmmmmm..."
+msgstr "mmmmmm... смайлик"
 
 #. Translators: (nerd) Nerdy
 msgid "nerdy smiley"
-msgstr "emoticono Empollón"
+msgstr "Тупий смайлик"
 
 #. Translators: (wave) Hi
 msgid "hi smiley"
-msgstr "emoticono Hola"
+msgstr "Вітальний смайлик"
 
 #. Translators: (facepalm) Facepalm
 msgid "facepalm smiley"
-msgstr "cara de desesperación"
+msgstr "Обличчя закрите однією рукою смайлик"
 
 #. Translators: (devil) Devil
 msgid "devil smiley"
-msgstr "emoticono diablo"
+msgstr "Чорт смайлик"
 
 #. Translators: (angel) Angel
 msgid "angel smiley"
-msgstr "emoticono ángel"
+msgstr "Ангел смайлик"
 
 #. Translators: (envy) Envy
 msgid "envy smiley"
-msgstr "cara envidiando"
+msgstr "Заздрісний смайлик"
 
 #. Translators: (wait) Wait
 msgid "wait smiley"
-msgstr "cara esperando"
+msgstr "Чекаю смайлик"
 
 #. Translators: (hug) Hug
 msgid "hug smiley"
-msgstr "emoticono abrazos"
+msgstr "Обійми смайлик"
 
 #. Translators: (makeup) Make-up
 msgid "make-up smiley"
-msgstr "emoticono maquillaje"
+msgstr "Макіяж смайлик"
 
 #. Translators: (chuckle) Giggle
 msgid "giggle smiley"
-msgstr "emoticono risita"
+msgstr "Хіхікаю смайлик"
 
 #. Translators: (clap) Clapping
 msgid "clapping smiley"
-msgstr "emoticono aplausos"
+msgstr "Плескаю в долоні смайлик"
 
 #. Translators: (think) Thinking
 msgid "thinking smiley"
-msgstr "cara pensativa"
+msgstr "Думаю смайлик"
 
 #. Translators: (bow) Bowing
 msgid "bowing smiley"
-msgstr "cara de reverencia"
+msgstr "Уклінний смайлик"
 
 #. Translators: (rofl) Rolling on the floor laughing
 msgid "rolling on the floor laughing! smiley"
-msgstr "cara ¡muerto de risa!"
+msgstr "Качаюся по підлозі від сміху! смайлик"
 
 #. Translators: (whew) Relieved
 msgid "relieved smiley"
-msgstr "cara de alivio"
+msgstr "Заспокоєний смайлик"
 
 #. Translators: (happy) Happy
 msgid "happy smiley"
-msgstr "cara feliz"
+msgstr "Щасливий смайлик"
 
 #. Translators: (smirk) Smirking
 msgid "smirking smiley"
-msgstr "cara sonriendo de satisfacción"
+msgstr "Самовдоволений смайлик"
 
 #. Translators: (nod) Nodding
 msgid "nodding smiley"
-msgstr "cara afirmando"
+msgstr "Киває смайлик"
 
 #. Translators: (shake) Shake
 msgid "shakeing smiley"
-msgstr "cara negando"
+msgstr "Трясеться смайлик"
 
 #. Translators: (waiting) Waiting
 msgid "waiting smiley"
-msgstr "cara esperando"
+msgstr "Чекаю смайлик"
 
 #. Translators: (emo) Emo;
 msgid "Emo smiley"
-msgstr "Emoticono Emo"
+msgstr "Емо смайлик"
 
 #. Translators: (y) Yes
 msgid "yes smiley"
-msgstr "cara de sí"
+msgstr "Так смайлик"
 
 #. Translators: (n) no;
 msgid "no smiley"
-msgstr "cara de no"
+msgstr "Ні смайлик"
 
 #. Translators: (handshake) Handshake
 msgid "handshake smiley"
-msgstr "emoticono apretón de manos"
+msgstr "Рукостискання смайлик"
 
 #. Translators: (highfive) High five
 msgid "high five smiley"
-msgstr "emoticno choca las cinco"
+msgstr "Дай п’ять смайлик"
 
 #. Translators: (lalala) Lalala;
 msgid "lalala smiley"
-msgstr "emoticono blablablá"
+msgstr "Ляляля смайлик"
 
 #. Translators: (heidy) Heidy;
 msgid "heidy smiley"
-msgstr "emoticono ardilla"
+msgstr "Білочка смайлик"
 
 #. Translators: (F) Flower
 msgid "flower smiley"
-msgstr "emoticno flor"
+msgstr "Квітка смайлик"
 
 #. Translators: (rain) Raining
 msgid "raining smiley"
-msgstr "emoticono lluvia"
+msgstr "Дощ смайлик"
 
 #. Translators: (sun) Sun
 msgid "sunny smiley"
-msgstr "emoticono sol"
+msgstr "Сонце смайлик"
 
 #. Translators: (tumbleweed) Tumbleweed
 msgid "tumbleweed smiley"
-msgstr "emoticono planta rodadora"
+msgstr "Перекотиполе смайлик"
 
 #. Translators: (music) Music
 msgid "music smiley"
-msgstr "emoticono música"
+msgstr "Музика смайлик"
 
 #. Translators: (bandit) Bandit
 msgid "bandit smiley"
-msgstr "cara de bandido"
+msgstr "Бандитський смайлик"
 
 #. Translators: (tmi) Too much information
 msgid "too much information smiley"
-msgstr "emoticono exceso de información"
+msgstr "Забагато інформації смайлик"
 
 #. Translators: (coffee) Coffee
 msgid "coffee smiley"
-msgstr "emoticono café"
+msgstr "Кава смайлик"
 
 #. Translators: (pi) Pizza
 msgid "pizza smiley"
-msgstr "emoticono pizza"
+msgstr "Піца смайлик"
 
 #. Translators: (^) Cake
 msgid "cake smiley"
-msgstr "emoticono pastel"
+msgstr "Торт смайлик"
 
 #. Translators: (*) Star
 msgid "star smiley"
-msgstr "emoticono estrella"
+msgstr "Зірка смайлик"
 
 #. Add-on summary, usually the user visible name of the addon.
 #. Translators: Summary for this add-on to be shown on installation and add-on information.
@@ -926,36 +925,14 @@ msgstr "Emoticons"
 msgid ""
 "Enables the announcement of emoticon names instead of the character "
 "Representation."
-msgstr ""
-"Habilita el anunciado de nombres de emoticonos en lugar de la representación "
-"de caracteres."
+msgstr "Вмикає оголошення назв смайликів замість відповідних їм символів."
 
 #~ msgid ""
 #~ "You have installed the Emoticons add-on, probably an old and incompatible "
 #~ "version with this one. Do you want to uninstall the old version?"
 #~ msgstr ""
-#~ "Has instalado el complemento Emoticons, probablemente una versión antigua "
-#~ "e incompatible con ésta. ¿Quieres desinstalar la versión anterior?"
+#~ "Ймовірно, ви встановили старішу версію додатка Emoticons, несумісну з "
+#~ "поточною. Бажаєте видалити стару версію?"
 
 #~ msgid "Uninstall incompatible add-on"
-#~ msgstr "Desinstalar complemento incompatible"
-
-#~ msgid "Manag&e emoticons"
-#~ msgstr "&Gestionar emoticonos"
-
-#~ msgid "Emoticons menu"
-#~ msgstr "Menú Emoticonos"
-
-#~ msgid "&Customize emoticons..."
-#~ msgstr "&Personalizar emoticonos..."
-
-#~ msgid "&Activation settings..."
-#~ msgstr "Opciones de &Activación..."
-
-#~ msgid "Shows a dialog to choose when emoticons speaking should be activated"
-#~ msgstr ""
-#~ "Muestra un diálogo para elegir cuándo debería activarse la verbalización "
-#~ "de emoticonos"
-
-#~ msgid "Activation settings"
-#~ msgstr "Opciones de Activación"
+#~ msgstr "Видалити несумісний додаток"

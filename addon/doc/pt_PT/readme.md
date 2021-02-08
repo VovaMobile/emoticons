@@ -1,8 +1,7 @@
 # Emoticons #
-
 * Autores: Chris Leo, Noelia Ruiz Martínez, Mesar Hameed, Francisco Javier
   Estrada Martínez
-* Compatibilidade com o NVDA: 2018.3 até 2019.1
+* NVDA compatibility: 2019.3 or later
 * Baixar [versão estável] [1]
 * Baixar [versão de desenvolvimento] [2]
 
@@ -24,7 +23,7 @@ Quando não tiver a certeza dos caracteres para um determinado smiley, este
 extra permite-lhe seleccioná-lo e inseri-lo no seu texto, como numa
 conversa.
 
-Pressione NVDA + I, ou a partir do menu ferramentas -> Gerir emoticons -> Inserir emoticon, abra uma caixa de diálogo com os emoticons ou emoji fornecidos.
+Press NVDA+I, or from menu Tools -> Emoticons > Insert emoticon, to open a dialog with the provided emoticons or emoji.
 
 Esta caixa de diálogo permite-lhe escolher um emoticon e ver os emoticons
 que o interessam:
@@ -40,6 +39,14 @@ que o interessam:
 
 Quando pressiona OK, os caracteres do emoticon escolhido serão copiados para
 a área de transferência, ficando prontos para colar na sua conversa.
+
+## Insert symbol ##
+
+This dialog allows you to choose one of the symbols available in the
+Punctuation/symbol pronunciation dialog of NVDA. You can use the Filter edit
+box or the arrow keys to select an item from the symbols list. Then, press
+OK and the selected emoji or symbol will be copied to your clipboard, ready
+for pasting.
 
 ## Dicionário de emoticons ##
 
@@ -94,6 +101,7 @@ diálogo do dicionário do Emoticon:
   escrito, ou com os emoticons substituídos pela descrição humana.
 * NVDA + I: mostra uma caixa de diálogo para seleccionar um emoticon que
   deseja copiar.
+* Not assigned: show a dialog to select an NVDA's symbol you want to copy.
 * Não atribuído: abre uma mensagem navegável mostrando o símbolo onde o
   cursor de revisão está posicionado, para que toda a descrição possa ser
   revisada no modo de navegação.
@@ -103,6 +111,26 @@ diálogo do dicionário do Emoticon:
 
 Nota: No Windows 10, também é possível usar o painel de emojis nativo.
 
+## Changes for 13.0 ##
+
+* Fixed errors in Insert Emoticon dialog.
+* Added a dialog to insert a symbol available in the Punctuation/symbol
+  pronunciation of NVDA.
+
+## Changes for 12.0 ##
+
+* Requires NVDA 2019.3 or later.
+
+## Changes for 11.0 ##
+
+* When the add-on is updated, dictionaries saved in the previous version of
+  the add-on will be automatically copied to the new version, unless you
+  prefer to import dictionaries saved in the main dictionaries folder of
+  NVDA.
+* When showing the symbol where the caret or the review cursor are
+  positioned, the words Character and Replacement are used to distinguish
+  between the symbol itself and its description in browse mode, useful for
+  speech users.
 
 ## Alterações para 10.0 ##
 

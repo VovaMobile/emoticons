@@ -1,8 +1,7 @@
 # Emoticons #
-
 * Autores: Chris Leo, Noelia Ruiz Martínez, Mesar Hameed, Francisco Javier
   Estrada Martínez
-* NVDA compatibility: 2018.3 to 2019.1
+* Compatibilidade com NVDA: 2019.3 ou posterior
 * Baixe a [versão estável][1]
 * Baixe a [versão de desenvolvimento][2]
 
@@ -24,7 +23,7 @@ Quando você não tiver certeza dos caracteres para uma carinha em particular,
 este complemento lhe possibilita selecionar e inseri-lo no texto, por
 exemplo num chat.
 
-Pressione NVDA+I, ou no menu Ferramentas -> Inserir emoticon, para abrir um diálogo com os emoticons ou emojis fornecidos.
+Press NVDA+I, or from menu Tools -> Emoticons > Insert emoticon, to open a dialog with the provided emoticons or emoji.
 
 Este diálogo possibilita você escolher um emoticon e ver os emoticons que
 lhe interessem:
@@ -40,6 +39,14 @@ lhe interessem:
 
 Ao pressionar OK, os caracteres do emoticon escolhido serão copiados para a
 área de transferência, prontos para colar.
+
+## Insert symbol ##
+
+This dialog allows you to choose one of the symbols available in the
+Punctuation/symbol pronunciation dialog of NVDA. You can use the Filter edit
+box or the arrow keys to select an item from the symbols list. Then, press
+OK and the selected emoji or symbol will be copied to your clipboard, ready
+for pasting.
 
 ## Dicionário de emoticons ##
 
@@ -75,9 +82,9 @@ No menu Preferências -> Configurações -> Emoticons abre um painel para config
 
 No painel de configurações de Emoticons, você pode escolher se o dicionário de fala deve ou não ser ativado automaticamente quando o NVDA alterna para o perfil que você está editando no momento. Por padrão está desativado na configuração normal do NVDA e em todos os seus novos perfis.
 
-Moreover, it's possible to determine if the add-on emojis should be
-spoken. This could be useful to preserve symbols speaking if emojis are
-included in NVDA's configuration.
+Outrossim, pode-se determinar se os emojis do complemento devem ser
+falados. Isso pode ser útil para preservar símbolos de serem falados caso os
+emojis estejam inclusos na configuração do NVDA.
 
 Se você desejar manter limpas suas pastas de configuração, nesta caixa de
 diálogo também é possível escolher se os dicionários não utilizados
@@ -93,30 +100,53 @@ Emoticons ou o diálogo Dicionário de Emoticons:
 * NVDA+E: Liga/desliga a fala de emoticons, alterna entre falar o texto como
   está escrito ou com os emoticons substituídos por descrições amigáveis.
 * NVDA+I: mostra um diálogo para selecionar um emoticon que queira copiar.
-* Not assigned: open a browseable message showing the symbol where the
-  review cursor is positioned, so that the whole description can be reviewed
-  in browse mode.
-* Not assigned: open a browseable message showing the symbol where the caret
-  is positioned, so that the whole description can be reviewed in browse
-  mode.
+* Not assigned: show a dialog to select an NVDA's symbol you want to copy.
+* Não atribuído: Abre uma mensagem navegável mostrando o símbolo onde o
+  cursor de exploração está posicionado, de modo que a descrição inteira
+  possa ser explorada em modo de navegação.
+* Não atribuído: Abre uma mensagem navegável mostrando o símbolo onde o
+  cursor está posicionado, de modo que a descrição inteira possa ser
+  explorada em modo de navegação.
 
 Nota: No Windows 10, também é possível usar o painel de emojis integrado.
 
+## Changes for 13.0 ##
 
-## Changes for 10.0 ##
+* Fixed errors in Insert Emoticon dialog.
+* Added a dialog to insert a symbol available in the Punctuation/symbol
+  pronunciation of NVDA.
 
-* Added commands to show the symbol where the review cursor or caret are
-  positioned. Gestures for these commands can be assigned from the Input
-  gestures dialog, Text review category.
+## Mudanças na 12.0 ##
 
-## Changes for 9.0 ##
+* Requer NVDA 2019.3 ou posterior.
 
-* Added the possibility of choosing if add-on emojis should be spoken.
-* Used appropiate encoding for dictionary names, fixing errors when they
-  contain certain characters.
-* The translated summary of the add-on is properly used for the title
-  presented in add-on help, accessible from the add-on manager.
-* Added a note mentioning the emoji panel available on Windows 10.
+## Mudanças na 11.0 ##
+
+* Quando o complemento é atualizado, os dicionários salvos na versão
+  anterior do complemento serão automaticamente copiados para a nova versão,
+  a não ser que você prefira importar dicionários salvos na pasta principal
+  de dicionários do NVDA.
+* Ao mostrar o símbolo onde o cursor do sistema ou o de exploração está
+  posicionado, são usadas as palavras caractere e substituto para distinguir
+  entre o próprio símbolo e a descrição dele no modo de navegação, útil para
+  usuários de fala.
+
+## Mudanças na 10.0 ##
+
+* Adicionados comandos para mostrar o símbolo onde o cursor de exploração ou
+  o do sistema está posicionado. Gestos para esses comandos podem ser
+  atribuídos no diálogo Definir Comandos, categoria Exploração de Texto.
+
+## Mudanças na 9.0 ##
+
+* Adicionada a possibilidade de escolher se os emojis do complemento devem
+  ser falados.
+* Usada codificação adequada nos nomes dos dicionários, o que corrige erros
+  quando estes contêm certos caracteres.
+* O resumo traduzido do complemento é usado adequadamente no título
+  apresentado na ajuda do complemento, acessível no Gestor de Complementos.
+* Adicionada uma nota mencionando o painel de emojis disponível em Windows
+  10.
 
 ## Mudanças na 8.0 ##
 

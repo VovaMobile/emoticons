@@ -1,8 +1,7 @@
 # Emoticons (Humørikoner) #
-
 * Forfattere: Chris Leo, Noelia Ruiz Martínez, Mesar Hameed, Francisco
   Javier Estrada Martínez
-* NVDA-kompatibilitet: 2018.3 til 2019.1
+* NVDA-kompatibilitet: 2019.3 eller nyere
 * Download [stabil version][1]
 * Download [udviklingsversion][2]
 
@@ -22,7 +21,7 @@ venner vide, hvordan du føler, og til at sætte fut i dine chatbeskeder.
 Når du er usikker på tegn for en særlig smiley, giver denne tilføjelse dig
 mulighed for at vælge og indsætte den i din tekst som i en chat.
 
-Tryk på NVDA + I, eller fra menuen værktøjer-> Indsæt humørikon, kan du åbne en dialog med de medfølgende humørikoner eller emoji.
+Press NVDA+I, or from menu Tools -> Emoticons > Insert emoticon, to open a dialog with the provided emoticons or emoji.
 
 Denne dialog lader dig vælge et humørikon og vise de humørikoner, der
 interesserer dig:
@@ -38,6 +37,14 @@ interesserer dig:
 
 Når du trykker på OK, vil det valge humørikon blive indsat i
 udklipsholderen, klar til at indsætte.
+
+## Insert symbol ##
+
+This dialog allows you to choose one of the symbols available in the
+Punctuation/symbol pronunciation dialog of NVDA. You can use the Filter edit
+box or the arrow keys to select an item from the symbols list. Then, press
+OK and the selected emoji or symbol will be copied to your clipboard, ready
+for pasting.
 
 ## Humørikonordbog ##
 
@@ -83,13 +90,14 @@ ikke-eksisterende profiler) skal fjernes fra tilføjelsen når den udlæses.
 
 ## Tastaturkommandoer: ##
 
-Disse er de vigtigste kommandoer tilgængelige som standard, du kan redigere
+Disse er de vigtigste kommandoer tilgængelige som standard. Du kan redigere
 dem eller tilføje nye tastetryk for at åbne indstillingspanelet for
-Emoticons eller dialogen til styrelse af Emoticons-ordbøger.
+Humørikoner eller dialogen til styrelse af Humørikoner-ordbøger.
 
 * NVDA+e: Skifter mellem at udtale tekst, som den er skrevet, eller med
   humørikonerne erstattet med den brugervenlige beskrivelse.
 * NVDA+i: Viser en dialog, hvor du kan vælge et humørikon, du vil kopiere.
+* Not assigned: show a dialog to select an NVDA's symbol you want to copy.
 * Ikke tildelt: Åbn et vindue, der viser symbolet, hvor læsemarkøren er
   placeret, så hele beskrivelsen kan gennemgås i gennemsynstilstand.
 * Ikke tildelt: Åbn et vindue, der viser symbolet, hvor systemmarkøren er
@@ -97,6 +105,25 @@ Emoticons eller dialogen til styrelse af Emoticons-ordbøger.
 
 Bemærk: I Windows 10 er det også muligt at bruge det indbyggede emoji-panel.
 
+## Changes for 13.0 ##
+
+* Fixed errors in Insert Emoticon dialog.
+* Added a dialog to insert a symbol available in the Punctuation/symbol
+  pronunciation of NVDA.
+
+## Ændringer for 12.0 ##
+
+* Kræver NVDA 2019.3 eller nyere.
+
+## Ændringer i 11.0 ##
+
+* Når tilføjelsen opdateres, kopieres ordbøger, der er gemt i den forrige
+  version af tilføjelsen automatisk til den nye version, medmindre du
+  foretrækker at importere ordbøger, der er gemt i NVDAs hovedordbøger.
+* Når symbolet, der viser hvor systemmarkøren eller gennemsynsmarkøren er
+  placeret, bruges ordene Tegn og erstatning til at skelne mellem selve
+  symbolet og dets beskrivelse i gennemsynstilstand, hvilket er nyttigt for
+  brugere af tale.
 
 ## Ændringer for 10.0 ##
 

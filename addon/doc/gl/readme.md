@@ -1,8 +1,7 @@
 # Emoticons #
-
 * Autores: Chris Leo, Noelia Ruiz Martínez, Mesar Hameed, Francisco Javier
   Estrada Martínez
-* Compatibilidade con NVDA: da 2018.3 á 2019.1
+* Compatibilidade con NVDA: 2019.3 ou posterior
 * Descargar [versión estable][1]
 * Descargar [versión de desenvolvemento][2]
 
@@ -24,7 +23,7 @@ Cando non esteas seguro dos caracteres para un emoticón en particular, este
 complemento capacítache para selecionalos e insertalos no teu texto como nun
 chat.
 
-Preme NVDA+I, ou dende o menú Ferramentas -> Insertar emoticón, para abrir un diálogo cos emoticóns ou emojis proporcionados.
+Press NVDA+I, or from menu Tools -> Emoticons > Insert emoticon, to open a dialog with the provided emoticons or emoji.
 
 Este diálogo permíteche escoller un emoticón e ver os emoticóns que che
 interesen:
@@ -40,6 +39,14 @@ interesen:
 
 Cando premas Aceptar, os caracteres para o emoticón escollido copiaranse no
 teu portapapeis, listos para se pegar.
+
+## Insert symbol ##
+
+This dialog allows you to choose one of the symbols available in the
+Punctuation/symbol pronunciation dialog of NVDA. You can use the Filter edit
+box or the arrow keys to select an item from the symbols list. Then, press
+OK and the selected emoji or symbol will be copied to your clipboard, ready
+for pasting.
 
 ## Diccionario de emoticóns ##
 
@@ -95,6 +102,7 @@ Diccionario de Emoticóns:
   descripción humana.
 * NVDA+I: amosa un cadro de diálogo para seleccionar un emoticón que queras
   pegar.
+* Not assigned: show a dialog to select an NVDA's symbol you want to copy.
 * Non asignada: abrir unha mensaxe de modo exploración amosando o símbolo
   onde o cursor de revisión está posicionado, de modo que se poida examinar
   en modo exploración a descrición completa.
@@ -104,6 +112,26 @@ Diccionario de Emoticóns:
 
 Nota: En Windows 10, tamén é posible utilizar o panel de emoji integrado.
 
+## Changes for 13.0 ##
+
+* Fixed errors in Insert Emoticon dialog.
+* Added a dialog to insert a symbol available in the Punctuation/symbol
+  pronunciation of NVDA.
+
+## Cambios para 12.0 ##
+
+* Require NVDA 2019.3 ou posterior.
+
+## Cambios para 11.0 ##
+
+* Cando o complemento se actualice, os dicionarios gardados na versión
+  anterior do complemento copiaranse automaticamente á nova versión, a menos
+  que prefiras importar os dicionarios gardados no cartafol principal de
+  dicionarios de NVDA.
+* Ao amosar o símbolo sobre o que están posicionados o cursor ou o cursor de
+  revisión, utilízanse as palabras Carácter e Reemprazo para distinguir
+  entre o símbolo en sí e a súa descrición en modo exploración, útil para
+  usuarios de fala.
 
 ## Cambios para 10.0 ##
 
